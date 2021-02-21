@@ -1,0 +1,2416 @@
+{
+    "events": [
+        {
+            "date": "2021-02-21",
+            "start": "2021-02-21T10:30:00.000Z",
+            "end": "2021-02-21T11:15:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-18T19:40:02.000Z",
+                "updatedAt": "2021-02-21T10:24:28.000Z",
+                "id": "2070fd91-169b-4aaf-bd14-47224e853eda",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-21",
+                "endDate": null,
+                "startTime": 1110,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "SU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-21",
+            "start": "2021-02-21T03:30:00.000Z",
+            "end": "2021-02-21T04:15:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-18T19:36:18.000Z",
+                "updatedAt": "2021-02-21T02:33:57.000Z",
+                "id": "3f1b1400-a991-40d9-80a2-4476d0b185e0",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-21",
+                "endDate": null,
+                "startTime": 690,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "SU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": true,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-21",
+            "start": "2021-02-21T02:30:00.000Z",
+            "end": "2021-02-21T03:15:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-18T19:36:04.000Z",
+                "updatedAt": "2021-02-21T01:52:23.000Z",
+                "id": "56836412-efb9-4085-aeda-3c6b0eff03a9",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-21",
+                "endDate": null,
+                "startTime": 630,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "SU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": true,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-21",
+            "start": "2021-02-21T07:30:00.000Z",
+            "end": "2021-02-21T08:15:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-18T19:37:46.000Z",
+                "updatedAt": "2021-02-21T07:14:17.000Z",
+                "id": "5d324723-5a64-4446-9265-aafeb447d9ca",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-21",
+                "endDate": null,
+                "startTime": 930,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "SU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": true,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-21",
+            "start": "2021-02-21T08:30:00.000Z",
+            "end": "2021-02-21T09:15:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-18T19:39:25.000Z",
+                "updatedAt": "2021-02-21T07:34:31.000Z",
+                "id": "8bcbd001-2858-4228-8806-a429b190d071",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-21",
+                "endDate": null,
+                "startTime": 990,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "SU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_3",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#1eb714"
+                }
+            }
+        },
+        {
+            "date": "2021-02-21",
+            "start": "2021-02-21T04:30:00.000Z",
+            "end": "2021-02-21T05:15:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-18T19:36:46.000Z",
+                "updatedAt": "2021-02-21T03:52:23.000Z",
+                "id": "a6078a29-72fc-47f9-a6bf-cc44829b842f",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-21",
+                "endDate": null,
+                "startTime": 750,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "SU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_2",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#dd0805"
+                }
+            }
+        },
+        {
+            "date": "2021-02-21",
+            "start": "2021-02-21T01:30:00.000Z",
+            "end": "2021-02-21T02:15:00.000Z",
+            "title": "Boxing (I)",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-18T19:35:46.000Z",
+                "updatedAt": "2021-02-21T01:24:12.000Z",
+                "id": "d8372beb-9176-4a2d-afaa-2cb5dc58178c",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-21",
+                "endDate": null,
+                "startTime": 570,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "SU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "BOXING_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#396"
+                }
+            }
+        },
+        {
+            "date": "2021-02-22",
+            "start": "2021-02-22T05:00:00.000Z",
+            "end": "2021-02-22T05:45:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T00:54:27.000Z",
+                "updatedAt": "2021-02-21T14:23:46.000Z",
+                "id": "077c6940-dcf8-4c78-a9cc-c6a09c3a2085",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-22",
+                "endDate": null,
+                "startTime": 780,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "MO"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-22",
+            "start": "2021-02-22T10:00:00.000Z",
+            "end": "2021-02-22T10:45:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T00:55:45.000Z",
+                "updatedAt": "2021-02-20T17:51:24.000Z",
+                "id": "0c8442b6-6c24-49c4-bb38-c7846c46635a",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-22",
+                "endDate": null,
+                "startTime": 1080,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "MO"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": true,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": false,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-22",
+            "start": "2021-02-22T09:00:00.000Z",
+            "end": "2021-02-22T09:45:00.000Z",
+            "title": "Boxing (I)",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T00:55:23.000Z",
+                "updatedAt": "2021-02-21T14:33:16.000Z",
+                "id": "553600bf-4ccf-4897-b303-aaf22df31830",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-22",
+                "endDate": null,
+                "startTime": 1020,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "MO"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "BOXING_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#396"
+                }
+            }
+        },
+        {
+            "date": "2021-02-22",
+            "start": "2021-02-22T08:00:00.000Z",
+            "end": "2021-02-22T08:45:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T00:54:48.000Z",
+                "updatedAt": "2021-02-21T15:17:48.000Z",
+                "id": "6530fdf3-d941-48f9-935a-53052eae795d",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-22",
+                "endDate": null,
+                "startTime": 960,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "MO"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_2",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#dd0805"
+                }
+            }
+        },
+        {
+            "date": "2021-02-22",
+            "start": "2021-02-21T23:30:00.000Z",
+            "end": "2021-02-22T00:15:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T00:53:24.000Z",
+                "updatedAt": "2021-02-21T14:15:45.000Z",
+                "id": "707118de-4431-4186-b62d-d5bfd5afc778",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-22",
+                "endDate": null,
+                "startTime": 450,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "MO"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_2",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#dd0805"
+                }
+            }
+        },
+        {
+            "date": "2021-02-22",
+            "start": "2021-02-22T04:00:00.000Z",
+            "end": "2021-02-22T04:45:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T00:54:14.000Z",
+                "updatedAt": "2021-02-21T14:36:15.000Z",
+                "id": "cb8c3466-e301-4475-bbc3-08b717c78fb3",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-22",
+                "endDate": null,
+                "startTime": 720,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "MO"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-22",
+            "start": "2021-02-22T11:00:00.000Z",
+            "end": "2021-02-22T11:45:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T00:55:57.000Z",
+                "updatedAt": "2021-02-21T14:14:21.000Z",
+                "id": "f24ea0ab-126c-487b-9691-115df99c7f1c",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-22",
+                "endDate": null,
+                "startTime": 1140,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "MO"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": true,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": false,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-22",
+            "start": "2021-02-21T22:30:00.000Z",
+            "end": "2021-02-21T23:15:00.000Z",
+            "title": "Boxing (I)",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T00:52:55.000Z",
+                "updatedAt": "2021-02-21T15:16:25.000Z",
+                "id": "fa1041fa-a9f2-4c14-a349-061c1614b522",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-22",
+                "endDate": null,
+                "startTime": 390,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "MO"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "BOXING_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#396"
+                }
+            }
+        },
+        {
+            "date": "2021-02-22",
+            "start": "2021-02-22T03:00:00.000Z",
+            "end": "2021-02-22T03:45:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T00:53:53.000Z",
+                "updatedAt": "2021-02-21T14:50:36.000Z",
+                "id": "fb423a3e-979f-4593-a6d9-dc995aa399d3",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-22",
+                "endDate": null,
+                "startTime": 660,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "MO"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_2",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#dd0805"
+                }
+            }
+        },
+        {
+            "date": "2021-02-23",
+            "start": "2021-02-22T22:45:00.000Z",
+            "end": "2021-02-22T23:30:00.000Z",
+            "title": "Boxing (I)",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T09:26:40.000Z",
+                "updatedAt": "2021-02-21T15:21:43.000Z",
+                "id": "11c2c4e2-6400-4aab-a572-f09e667def90",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-23",
+                "endDate": null,
+                "startTime": 405,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "TU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "BOXING_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#396"
+                }
+            }
+        },
+        {
+            "date": "2021-02-23",
+            "start": "2021-02-23T09:15:00.000Z",
+            "end": "2021-02-23T10:00:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T09:29:29.000Z",
+                "updatedAt": "2021-02-21T14:53:08.000Z",
+                "id": "3a8fbb95-b3bd-4fb9-af62-f265ea8fe6ad",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-23",
+                "endDate": null,
+                "startTime": 1035,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "TU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-23",
+            "start": "2021-02-23T08:15:00.000Z",
+            "end": "2021-02-23T09:00:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T09:29:09.000Z",
+                "updatedAt": "2021-02-21T14:23:05.000Z",
+                "id": "53c4eb62-5014-4d74-986a-7f888d28d0ca",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-23",
+                "endDate": null,
+                "startTime": 975,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "TU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_2",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": true,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#dd0805"
+                }
+            }
+        },
+        {
+            "date": "2021-02-23",
+            "start": "2021-02-23T04:15:00.000Z",
+            "end": "2021-02-23T05:00:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T09:27:45.000Z",
+                "updatedAt": "2021-02-21T14:15:28.000Z",
+                "id": "5c9a5460-7f18-404e-8bc5-7c635447c7eb",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-23",
+                "endDate": null,
+                "startTime": 735,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "TU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": true,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": false,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-23",
+            "start": "2021-02-23T05:15:00.000Z",
+            "end": "2021-02-23T06:00:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T09:28:28.000Z",
+                "updatedAt": "2021-02-21T14:57:47.000Z",
+                "id": "7c13fa3a-1341-41ab-aa9e-6f23a4969c52",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-23",
+                "endDate": null,
+                "startTime": 795,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "TU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-23",
+            "start": "2021-02-23T10:15:00.000Z",
+            "end": "2021-02-23T11:00:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T09:29:45.000Z",
+                "updatedAt": "2021-02-21T14:26:01.000Z",
+                "id": "92d46b33-412d-4c32-98ea-adebd7903570",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-23",
+                "endDate": null,
+                "startTime": 1095,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "TU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": true,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": false,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-23",
+            "start": "2021-02-23T03:15:00.000Z",
+            "end": "2021-02-23T04:00:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T09:27:28.000Z",
+                "updatedAt": "2021-02-21T15:18:31.000Z",
+                "id": "930d9b12-888a-4a81-a3b8-d17a1bc176e4",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-23",
+                "endDate": null,
+                "startTime": 675,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "TU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-23",
+            "start": "2021-02-22T23:45:00.000Z",
+            "end": "2021-02-23T00:30:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T09:27:04.000Z",
+                "updatedAt": "2021-02-21T14:25:24.000Z",
+                "id": "b4600f5b-d679-4451-b913-e28d3e415632",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-23",
+                "endDate": null,
+                "startTime": 465,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "TU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": true,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": false,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-23",
+            "start": "2021-02-23T11:15:00.000Z",
+            "end": "2021-02-23T12:00:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-19T09:30:03.000Z",
+                "updatedAt": "2021-02-21T14:15:10.000Z",
+                "id": "bd6bccf5-04f8-4fd6-8bf7-e4d509f4adfe",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-23",
+                "endDate": null,
+                "startTime": 1155,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "TU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": true,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": true,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": false,
+                    "waitlistPosition": 10,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-22",
+            "start": "2021-02-22T12:00:00.000Z",
+            "end": "2021-02-22T12:45:00.000Z",
+            "title": "Boxing (I)",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-23T04:25:16.000Z",
+                "updatedAt": "2021-02-21T14:26:26.000Z",
+                "id": "4a7c4398-b4d0-41af-aaf1-b081abf51d1f",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-29",
+                "endDate": null,
+                "startTime": 1200,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "MO"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "BOXING_LEVEL_1",
+                    "isFull": true,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": false,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#396"
+                }
+            }
+        },
+        {
+            "date": "2021-02-22",
+            "start": "2021-02-22T07:00:00.000Z",
+            "end": "2021-02-22T07:45:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-23T05:50:36.000Z",
+                "updatedAt": "2021-02-21T15:19:47.000Z",
+                "id": "bb10ab63-f7c7-4d12-88b3-5f5ff1bdc254",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-29",
+                "endDate": null,
+                "startTime": 900,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "MO"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-22",
+            "start": "2021-02-22T06:00:00.000Z",
+            "end": "2021-02-22T06:45:00.000Z",
+            "title": "Boxing (I)",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-23T05:48:40.000Z",
+                "updatedAt": "2021-02-21T15:16:20.000Z",
+                "id": "ebcd5e2c-7b69-462d-a228-3602e9dbf44b",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-29",
+                "endDate": null,
+                "startTime": 840,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "MO"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "BOXING_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": true,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#396"
+                }
+            }
+        },
+        {
+            "date": "2021-02-23",
+            "start": "2021-02-23T06:15:00.000Z",
+            "end": "2021-02-23T07:00:00.000Z",
+            "title": "Boxing (I)",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-23T10:35:52.000Z",
+                "updatedAt": "2021-02-21T15:00:03.000Z",
+                "id": "200f2498-f8da-4e3a-877e-99f0a86ac762",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-30",
+                "endDate": null,
+                "startTime": 855,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "TU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "BOXING_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": true,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": true
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#396"
+                }
+            }
+        },
+        {
+            "date": "2021-02-23",
+            "start": "2021-02-23T07:15:00.000Z",
+            "end": "2021-02-23T08:00:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-06-23T10:36:14.000Z",
+                "updatedAt": "2021-02-21T15:04:15.000Z",
+                "id": "36b1bd36-98c7-4f96-978a-58f3ad2612e2",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-06-30",
+                "endDate": null,
+                "startTime": 915,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "TU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-23",
+            "start": "2021-02-23T00:45:00.000Z",
+            "end": "2021-02-23T01:30:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-07-04T05:45:23.000Z",
+                "updatedAt": "2021-02-21T14:48:21.000Z",
+                "id": "d4453c38-9b13-41fb-91ba-30ac8a645dcf",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-07-07",
+                "endDate": null,
+                "startTime": 525,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "TU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-22",
+            "start": "2021-02-22T00:30:00.000Z",
+            "end": "2021-02-22T01:15:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-07-04T06:35:29.000Z",
+                "updatedAt": "2021-02-21T15:16:27.000Z",
+                "id": "94a2f446-d475-44af-b4ab-d979d87ea771",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-07-13",
+                "endDate": null,
+                "startTime": 510,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "MO"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-21",
+            "start": "2021-02-21T00:30:00.000Z",
+            "end": "2021-02-21T01:15:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-10-28T11:18:21.000Z",
+                "updatedAt": "2021-02-21T00:24:44.000Z",
+                "id": "6f2efb48-5cb5-4b04-a610-081d8e0f3925",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-11-01",
+                "endDate": null,
+                "startTime": 510,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "SU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 10,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-21",
+            "start": "2021-02-20T23:30:00.000Z",
+            "end": "2021-02-21T00:15:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-10-28T11:18:04.000Z",
+                "updatedAt": "2021-02-20T23:23:33.000Z",
+                "id": "8ba9d6f0-af20-42cb-9ac6-edd65b7564b8",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-11-01",
+                "endDate": null,
+                "startTime": 450,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "SU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 10,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_2",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#dd0805"
+                }
+            }
+        },
+        {
+            "date": "2021-02-22",
+            "start": "2021-02-22T13:00:00.000Z",
+            "end": "2021-02-22T13:45:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-10-28T11:36:09.000Z",
+                "updatedAt": "2021-02-21T14:32:13.000Z",
+                "id": "81834dbf-7061-43f7-b960-01adbfb28d65",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-11-02",
+                "endDate": null,
+                "startTime": 1260,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "MO"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": true,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": false,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-23",
+            "start": "2021-02-23T12:15:00.000Z",
+            "end": "2021-02-23T13:00:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-10-28T11:37:10.000Z",
+                "updatedAt": "2021-02-21T14:15:29.000Z",
+                "id": "6341b526-8957-4523-9530-778a3fde55c7",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-11-03",
+                "endDate": null,
+                "startTime": 1215,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "TU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_2",
+                    "isFull": true,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": false,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#dd0805"
+                }
+            }
+        },
+        {
+            "date": "2021-02-21",
+            "start": "2021-02-21T11:30:00.000Z",
+            "end": "2021-02-21T12:15:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-10-29T12:42:38.000Z",
+                "updatedAt": "2021-02-21T10:45:55.000Z",
+                "id": "94b7925b-1631-4ba5-ace9-2a0896379fec",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-11-08",
+                "endDate": null,
+                "startTime": 1170,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "SU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_2",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": true,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#dd0805"
+                }
+            }
+        },
+        {
+            "date": "2021-02-21",
+            "start": "2021-02-21T05:30:00.000Z",
+            "end": "2021-02-21T06:15:00.000Z",
+            "title": "Muay Thai",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-10-29T12:41:55.000Z",
+                "updatedAt": "2021-02-21T04:15:59.000Z",
+                "id": "d5bf823a-7d2b-4386-aced-7fef4e76112a",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-11-08",
+                "endDate": null,
+                "startTime": 810,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "SU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "MT_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#969696"
+                }
+            }
+        },
+        {
+            "date": "2021-02-23",
+            "start": "2021-02-23T13:15:00.000Z",
+            "end": "2021-02-23T14:00:00.000Z",
+            "title": "Boxing (II)",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-11-28T08:30:46.000Z",
+                "updatedAt": "2021-02-21T14:31:22.000Z",
+                "id": "33c65089-f483-44c6-8347-74e46e61b2b5",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-12-08",
+                "endDate": null,
+                "startTime": 1275,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "TU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 10,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "BOXING_LEVEL_2",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": true,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": true
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#974705"
+                }
+            }
+        },
+        {
+            "date": "2021-02-23",
+            "start": "2021-02-23T01:45:00.000Z",
+            "end": "2021-02-23T02:30:00.000Z",
+            "title": "BJJ (Purple) Grappling",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-12-12T09:16:29.000Z",
+                "updatedAt": "2021-02-20T08:34:03.000Z",
+                "id": "8e5f93b8-ece8-4c7a-a009-f7ea43284a8d",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-12-15",
+                "endDate": null,
+                "startTime": 585,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "TU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 10,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "BJJ_PURLE_GRAPPLING",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": false,
+                    "waitlistPosition": 0,
+                    "isGroupAttendance": true,
+                    "isEarlyBookingAvailable": true
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#4500a4"
+                }
+            }
+        },
+        {
+            "date": "2021-02-22",
+            "start": "2021-02-22T01:30:00.000Z",
+            "end": "2021-02-22T02:15:00.000Z",
+            "title": "BJJ (Blue) Grappling",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2020-12-12T09:19:01.000Z",
+                "updatedAt": "2021-02-21T13:46:29.000Z",
+                "id": "111de028-e3f6-44ce-b9e7-9733b43379c1",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2020-12-21",
+                "endDate": null,
+                "startTime": 570,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "MO"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 10,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "BJJ_BLUE_GRAPPLING",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": false,
+                    "waitlistPosition": 0,
+                    "isGroupAttendance": true,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#36f"
+                }
+            }
+        },
+        {
+            "date": "2021-02-21",
+            "start": "2021-02-21T09:30:00.000Z",
+            "end": "2021-02-21T10:15:00.000Z",
+            "title": "Boxing (I)",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2021-01-30T11:45:59.000Z",
+                "updatedAt": "2021-02-21T07:44:13.000Z",
+                "id": "00d44c76-ebbb-4895-a784-bf8ddbacae16",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2021-02-07",
+                "endDate": null,
+                "startTime": 1050,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "SU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "BOXING_LEVEL_1",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": false,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": false
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#396"
+                }
+            }
+        },
+        {
+            "date": "2021-02-21",
+            "start": "2021-02-21T06:30:00.000Z",
+            "end": "2021-02-21T07:15:00.000Z",
+            "title": "Boxing (II)",
+            "resourceId": "FES_WARRIOR",
+            "event": {
+                "createdAt": "2021-01-30T11:45:38.000Z",
+                "updatedAt": "2021-02-21T02:43:43.000Z",
+                "id": "71948e5e-9e4e-46d4-8c3f-920248676c46",
+                "title": null,
+                "type": "CLASS_SCHEDULE",
+                "startDate": "2021-02-07",
+                "endDate": null,
+                "startTime": 870,
+                "duration": 45,
+                "recurrence": {
+                    "weekDays": [
+                        "SU"
+                    ],
+                    "frequency": "WEEKLY"
+                },
+                "maxAttendanceCount": 15,
+                "facility": "FES",
+                "area": "FES_WARRIOR",
+                "classDetails": {
+                    "area": "FES_WARRIOR",
+                    "isCP": false,
+                    "level": "BOXING_LEVEL_2",
+                    "isFull": false,
+                    "facility": "FES",
+                    "instructors": [],
+                    "isBookedByMe": false,
+                    "isWaitingByMe": false,
+                    "isBookAvailable": true,
+                    "isWaitAvailable": true,
+                    "waitlistPosition": 0,
+                    "isEarlyBookingAvailable": true
+                },
+                "leaveDetails": null,
+                "blockDetails": null,
+                "fightRestDetails": null,
+                "cornermanDetails": null,
+                "privateClassDetails": null,
+                "trialClassDetails": null,
+                "childCareDetails": null,
+                "offInLieuDetails": null,
+                "deletedAt": null
+            },
+            "props": {
+                "style": {
+                    "color": "#fff",
+                    "backgroundColor": "#974705"
+                }
+            }
+        }
+    ],
+    "timeToNextBookingFrame": 34498380,
+    "date": "2021-02-21T23:28:01"
+}
