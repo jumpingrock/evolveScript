@@ -2,7 +2,7 @@ const axios = require('axios');
 const schedule = require('node-schedule');
 
 // change this for eventid and event date
-var data = '{"eventId":"53c4eb62-5014-4d74-986a-7f888d28d0ca","eventDate":"2021-02-23","memberId":"76a8bc96-8f14-41c2-bd2e-7e8ded5a67a9","action":"book"}';
+var data = '{"eventId":"99f9efdb-b95b-4c35-a637-a565f3a67645","eventDate":"2021-09-21","memberId":"cdeea972-6346-4c5f-b8c0-3e5f2c023580","action":"book"}';
 
 var config = {
   method: 'post',
@@ -13,8 +13,8 @@ var config = {
     'cache-control': 'no-cache', 
     'sec-ch-ua': '"Chromium";v="88", "Google Chrome";v="88", ";Not A Brand";v="99"', 
     'accept': 'application/json, text/plain, */*', 
-    // change authorization 
-    'authorization': 'Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZW1iZXJJZCI6Ijc2YThiYzk2LThmMTQtNDFjMi1iZDJlLTdlOGRlZDVhNjdhOSIsImlhdCI6MTYxMzkyMTIyOSwiZXhwIjoxNjEzOTg2MDI5fQ.cvlHbUn2FccVHOTEyzpdbKRSHNc9ugF74jYcofhjcpVHZJP-ztu8ZZk49hDvgl9iWT_xOLz0jVO45-6wgd9L53h7vgkNJu9LCfN4y-3sW07EuTcZrgTDtGsfXs-Npx8mBFFRp-Cspo24vaWdxF8_xEVR7jtm7Vf6iAKfQxK9AVkzQ4HEmsLHdXza5MLhHQv_7oysEG6K4mstxh_uS_VAgPUj-8kJdMCnEM_gYyEks5CmJwgNainRvvm0dgl6amvLPB94xX_S55RnwIzvlYOoXpum58LIhFha2C9Q8_kJE4H75-elTi0eHDugl4BLccK77Tm7Z4TvmhLsip0D7HHJdA', 
+    // change authorization  
+    'authorization': 'Bearer eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZW1iZXJJZCI6ImNkZWVhOTcyLTYzNDYtNGM1Zi1iOGMwLTNlNWYyYzAyMzU4MCIsImlhdCI6MTYzMjA2MjQ3NywiZXhwIjoxNjMyMTQ4ODc3fQ.XDTbkCV0FyRFRxTkmdPREN2R2RyzwtoETQWjsZBc3X9efj5v2QXC-v_ntP0noLXj2eqM-tHGWusmdY4U0Kl9OmAMX6JLXEfuZik23l562sOmHgC4_bZr2umZSKmPJmtktw5wX8VD3Gj-LCv0dTEGag_jRMmJN_yHB4AJ9q0AyNHSbsfz6XOH0INrW-xBl_FfwzS0N6j7BzLpp4I-ybRbXr3r5OeXDpO7b2aA6bbRcih0KgoqdNEJnJJIOdC3DB2i7nT17z_EuVXX1xti7byMrMLwRN4ed70Bo134CmCM90wJYXqnJAObyIuMjhKPuXsj4X7DdfQ9Wq_2vuXQvC-jaA',
     'sec-ch-ua-mobile': '?0', 
     'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36', 
     'content-type': 'application/json;charset=UTF-8', 
